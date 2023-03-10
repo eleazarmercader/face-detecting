@@ -5,7 +5,7 @@ Face Recognition Project - v2
 ### - React:
 - Create React App
 
-### CSS:
+### - CSS:
 - Tachyons
 - React Parallax Tilt
 - Particles BG
