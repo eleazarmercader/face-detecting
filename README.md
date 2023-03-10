@@ -1,8 +1,11 @@
 # face-detecting
 Face Recognition Project - v2
 
-## Made with:
-### - Create React App
+## MADE WITH:
+### - React:
+- Create React App
+
+### CSS:
 - Tachyons
 - React Parallax Tilt
 - Particles BG
